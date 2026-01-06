@@ -1,52 +1,60 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**technicallymystic/TechnicallyMystic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Technically Mystic
+### *Field Notes from the Messy Middle*
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## The Short Version
+---
 
-👩‍💻 I’m a software engineer who started meditating in 2022 to fix my burnout.
+### 👋 Hi there
 
-🧘‍♀️ I was looking for stress relief.
+I am a Senior Software Engineer who started meditating in 2022 for stress relief.
 
-🤯 Instead, I accidentally dismantled my entire worldview.
+**Instead, I accidentally triggered a complete system override.**
 
-📖 Now I'm writing field notes from the messy middle.
+---
 
-## The Long Version
+### 🌗 The Double Life
+I spent years feeling torn between the person everyone knew and the heart beating under the floorboards.
 
-For a decade, I’ve built systems, debugged code, and lived by logic. I am a Virgo Sun, a Senior Engineer, and a skeptic by trade.
+Now, I document the integration.
 
-But 3.5 years ago, the stress of the tech industry broke me. I turned to meditation as a survival mechanism. I expected better sleep and focus.
+| 💻 Day Job (The Engineer) | 🔮 Night Shift (The Mystic) |
+| :--- | :--- |
+| **Role:** Senior Software Engineer | **Role:** Field Reporter @ Mystics Inc. |
+| **OS:** Logic, Reason, Skepticism | **OS:** Intuition, Gnosis, Bhakti |
+| **Stack:** Go, Kubernetes | **Stack:** Meditation, Kundalini, Tantra |
+| **Bug:** Burnout | **Feature:** Awakening |
 
-What I got was a complete system override.
+---
 
-I went from an agnostic workaholic to a “mad mystic” writing poetry to the Divine at 2 AM.
+### 🧭 Navigation by Depth
+My documentation is organized by "Levels" of intensity, for the skeptic and the seeker alike:
 
-I went from seeking stress relief to navigating the “Dark Night of the Soul” while trying to act normal in morning stand-ups and in my marriage. I spent years thinking I was living a double life—torn between the person everyone knew and the heart beating under the floorboards.
+* **[Level 0: Technical](https://technicallymystic.com/s/level-0-technical)** — Burnout, stress, and the rational analysis of "woo."
+* **[Level 1: Transitional](https://technicallymystic.com/s/level-1-transitional)** — When the worldview cracks and the double life begins.
+* **[Level 2: Mystical](https://technicallymystic.com/s/level-2-mystical)** — Longing, devotion, and the "Dark Night."
+* **[Level 3: Union](https://technicallymystic.com/s/level-3-union)** — *Space Division.* Direct experience and the dissolution of self.
 
-Now I'm working on the documentation of that dismantling. I'm creating, publishing, sharing, and archiving logs of an atheist turning into a mystic who's still trying to keep their day job.
+---
 
-## Publications
+### 📚 The Logs
+
+<div align="center">
 
 <a href="https://technicallymystic.com">
-  <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" /> 
-</a> 
-  <p>☝️ Where I regularly post my field notes.</p>
+  <img src="https://img.shields.io/badge/Read_on_Substack-%23FF6719.svg?style=for-the-badge&logo=substack&logoColor=white" />
+</a>
+<br/>
+<em>Where I publish live field notes and current transmissions.</em>
 
+<br/><br/>
 
 <a href="https://github.com/technicallymystic/technically-mystic/blob/main/manuscript.md">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> 
-</a> 
-  <p>☝️ The organized depth-based manuscript of all my field notes so far (though it might lag behind my Substack).</p>
+  <img src="https://img.shields.io/badge/Archived_Manuscript-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/>
+<em>The organized, depth-based compilation of the journey so far.</em>
+
+</div>
