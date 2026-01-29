@@ -24,7 +24,7 @@ Now, I document the integration.
 | :--- | :--- |
 | **Role:** Senior Software Engineer | **Role:** Field Reporter @ Mystics Inc. |
 | **OS:** Logic, Reason, Skepticism | **OS:** Intuition, Gnosis, Bhakti |
-| **Stack:** Go, Kubernetes | **Stack:** Meditation, Kundalini, Tantra |
+| **Stack:** Go, Kubernetes | **Stack:** Meditation, Self-Inquiry, Kashmir Shaivism |
 | **Bug:** Burnout | **Feature:** Awakening |
 
 ---
